@@ -2,6 +2,7 @@ package SRP.violate;
 
 public class Reporter {
     
+    //Class with multiple responsibilities – violating SRP
     public void generateIncomeReports(){
         // uses income details from database
         // builds income relate report
