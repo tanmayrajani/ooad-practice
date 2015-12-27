@@ -1,4 +1,4 @@
-package OCP;
+package OCP_DIP;
 
 public interface Switchable {
     public void on(); 

@@ -1,4 +1,4 @@
-package OCP;
+package OCP_DIP;
 
 public class Light implements Switchable{
     
