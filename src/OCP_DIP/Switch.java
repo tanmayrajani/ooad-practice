@@ -6,6 +6,7 @@ public class Switch {
     
     public Switch(){}
     
+    //Solving DIP using Constructor Injection
     public Switch(Switchable switchable){
         this.switchable = switchable;
     }
