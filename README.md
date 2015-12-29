@@ -1,7 +1,6 @@
-# ooad-practice
->Going through OOAD Principles and practicing alongside
+# ooad-practice [![Build Status](https://travis-ci.org/tanmayrajani/ooad-practice.svg?branch=master)](https://travis-ci.org/tanmayrajani/ooad-practice)
 
-https://travis-ci.org/tanmayrajani/ooad-practice.svg?branch=master
+>Going through OOAD Principles and practicing alongside
 
 These are the Object Oriented Principles covered in this repo:
 
