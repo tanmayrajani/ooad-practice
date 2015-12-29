@@ -1,6 +1,8 @@
 # ooad-practice
 >Going through OOAD Principles and practicing alongside
 
+https://travis-ci.org/tanmayrajani/ooad-practice.svg?branch=master
+
 These are the Object Oriented Principles covered in this repo:
 
 1. Single Responsibility Principle
