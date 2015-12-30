@@ -1,4 +1,4 @@
-# ooad-practice [![Build Status](https://travis-ci.org/tanmayrajani/ooad-practice.svg?branch=master)](https://travis-ci.org/tanmayrajani/ooad-practice)
+# ooad-practice 
 
 >Going through OOAD Principles and practicing alongside
 
