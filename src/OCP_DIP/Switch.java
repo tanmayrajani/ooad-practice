@@ -2,22 +2,23 @@ package OCP_DIP;
 
 public class Switch {
     
-    private Switchable switchable;
+    private static Switchable switchable;
     
-    public Switch(){}
+    public Switch(){
+        this(new Light());
+    }
     
-    //Solving DIP using Constructor Injection
     public Switch(Switchable switchable){
-        this.switchable = switchable;
+        Switch.switchable = switchable;
     }
     
     public void turnOn(){
         System.out.println("Turning on...");
-        this.switchable.on();
+        Switch.switchable.on();
     }
     
     public void turnOff(){
         System.out.println("Turning off...");
-        this.switchable.off();
+        Switch.switchable.off();
     }
 }
