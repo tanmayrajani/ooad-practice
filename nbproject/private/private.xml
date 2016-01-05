@@ -2,6 +2,15 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/home/tanmay.rajani/ggit/ooad-practice/test/OCP_DIP/LightTest.java</file>
+            <file>file:/home/tanmay.rajani/ggit/ooad-practice/src/OCP_DIP/Switchable.java</file>
+            <file>file:/home/tanmay.rajani/ggit/ooad-practice/src/OCP_DIP/Light.java</file>
+            <file>file:/home/tanmay.rajani/ggit/ooad-practice/src/OCP_DIP/Switch.java</file>
+            <file>file:/home/tanmay.rajani/ggit/ooad-practice/src/OCP_DIP/LightController.java</file>
+            <file>file:/home/tanmay.rajani/ggit/ooad-practice/src/OCP_DIP/Fan.java</file>
+            <file>file:/home/tanmay.rajani/ggit/ooad-practice/test/OCP_DIP/SwitchTest.java</file>
+            <file>file:/home/tanmay.rajani/ggit/ooad-practice/test/OCP_DIP/FanTest.java</file>
+        </group>
     </open-files>
 </project-private>

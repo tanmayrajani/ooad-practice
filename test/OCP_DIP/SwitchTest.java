@@ -23,7 +23,7 @@ public class SwitchTest {
     
     @Before
     public void setUp() {
-        instance = new Switch();
+        instance = new Switch(new Light());
     }
     
     @After

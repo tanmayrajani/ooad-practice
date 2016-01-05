@@ -4,11 +4,6 @@ public class Switch {
     
     private static Switchable switchable;
     
-    public Switch(){
-        //TODO: Find some legit way to do this or believe it's legit
-        this(new Light());
-    }
-    
     //Solving DIP using Constructor Injection
     public Switch(Switchable switchable){
         Switch.switchable = switchable;
